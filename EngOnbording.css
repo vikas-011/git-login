@@ -1,0 +1,177 @@
+#Shbox_1{
+    background-image: url("https://www.coolfiresolutions.com/wp-content/uploads/2019/04/situational-awareness-software-e1563307408571.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    }
+    
+    
+    #Shheadtext{
+        font-size: 80px;
+        width:48%;
+        color: white;
+        margin-top: -220px;
+        margin-left: 50px;
+        line-height: 70px;
+    }
+
+    body{
+        background-color: black;
+        position: relative;
+    }
+    
+#Shbox_1{
+    width: 100%;
+    height: 700px;
+    
+}
+
+
+#Shbox_2{
+    display: flex;
+    
+    background-color: rgb(30, 34, 34);
+    padding-top: 70px;
+    padding-bottom: 70px;
+  
+}
+
+#Shsmallbox_2_1{ 
+    width: 40%;
+}
+#Shsmallbox_2_1 > img{
+   margin-left: 150px;
+   width: 65%;
+}
+
+#Shsmallbox_2_2{
+   
+    width: 50%;
+}
+.Shwhite{
+    color: rgb(214, 208, 197);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+ #Shul{
+    display: flex;
+ }
+ .Shwhite_bold{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+ }
+ .Shwhite_Sbold{
+    width: 85%;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    
+ }
+ #Shbox_3{
+    width: 100%;
+    
+ }
+ #Shsmallbox_3_1{
+    width: 60%;
+    margin: auto;
+    margin-top: 120px;
+ }
+ #Shsmallbox_3_2{
+    width: 60%;
+    margin: auto;
+    margin-top: 120px;
+ }
+ #Shsmallbox_3_3{
+    width: 60%;
+    margin: auto;
+    margin-top: 121px;
+    margin-bottom: 220px;
+ }
+ #Shsmallbox_3_4{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 220px;
+    
+ }
+ .Shul{
+    width:51%;
+    margin-right: 20px;
+ }
+ .Shwhiteli{
+    color: rgb(214, 208, 197);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+ }
+ #Shbtn{
+    font-size: 20px;
+    background: linear-gradient(120deg,#e77e54,#e7226d);
+    margin-left: 50px;
+    padding: 20px 30px 20px 30px;
+    border: transparent;
+    color: white;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+ }
+ 
+#Shinput{
+      position: absolute;
+      top: 0px;
+      width: 61%;
+      height: auto;
+      background-color: rgb(32, 30, 30);
+      margin-left:350px;
+
+      margin-bottom: 500px;
+      overflow:scroll;
+}
+/* **************************** */
+/* #Sha{
+   text-decoration: none;
+   color: white;
+} */
+/* *************************** */
+.Shoinput{
+   width: 900px;
+   display: block;
+   margin: auto;
+   margin-top: -15px;
+   padding: 10px;
+   margin-bottom: 50px;
+   background-color: rgb(85, 80, 80)
+
+}
+
+.SHP{
+ font-weight: bold;  
+}
+
+.Shlab{
+   color: white;
+   margin-left: 80px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 20px;
+   
+}
+
+#ShH1{
+   color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+
+#Shobtn{
+   padding: 20px 60px 20px 60px ;
+   font-size: 30px;
+   background-color: rgb(240, 51, 124);
+   border: transparent;
+   color: white;
+   font-weight: bold;
+   border-radius: 5px;
+   margin-left: 80px;
+   margin-bottom: 70px;
+}
+

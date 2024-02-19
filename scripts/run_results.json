@@ -1,0 +1,1824 @@
+{
+ "all": [
+  {
+   "name": "Active Directory Administration in Windows Server 2016",
+   "url": "https://www.pluralsight.com/paths/active-directory-administration",
+   "courses": "3 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Administer and Monitor Couchbase",
+   "url": "https://www.pluralsight.com/paths/administer-and-monitor-couchbase",
+   "courses": "5 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Administering a Cisco Collaboration Deployment from the Ground Up",
+   "url": "https://www.pluralsight.com/paths/administering-a-cisco-collaboration-deployment-from-the-ground-up",
+   "courses": "4 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/cisco-ccna-4d89ba4cfe.png?w=75"
+  },
+  {
+   "name": "Adobe Analytics for Developers",
+   "url": "https://www.pluralsight.com/paths/adobe-analytics-for-developers",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/adobeanalytics-3c597d8394.png?w=75"
+  },
+  {
+   "name": "Adobe Campaign v6.1",
+   "url": "https://www.pluralsight.com/paths/adobe-campaign-v61",
+   "courses": "3 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/adobecampaign-05c5757cd8.png?w=75"
+  },
+  {
+   "name": "Adobe Experience Manager for Developers",
+   "url": "https://www.pluralsight.com/paths/adobe-experience-manager-for-developers",
+   "courses": "6 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/adobeexperiencemanager-f92d95ea47.png?w=75"
+  },
+  {
+   "name": "Adobe Target",
+   "url": "https://www.pluralsight.com/paths/adobe-target-for-developers",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/adobetarget-1d1aebdf58.png?w=75"
+  },
+  {
+   "name": "Adobe Video and Audio Production",
+   "url": "https://www.pluralsight.com/paths/video-production",
+   "courses": "11 Courses",
+   "hours": "30 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/adobeccvideoproduction-ce19ceabb0.png?w=75"
+  },
+  {
+   "name": "Agile Analysis (IIBA®-AAC)",
+   "url": "https://www.pluralsight.com/paths/agile-analysis-iibar-aac",
+   "courses": "4 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Analyzing Network Traffic with Wireshark",
+   "url": "https://www.pluralsight.com/paths/analyzing-network-traffic-with-wireshark",
+   "courses": "9 Courses",
+   "hours": "22 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/wireshark-bb8098f5ea.png?w=75"
+  },
+  {
+   "name": "Angular",
+   "url": "https://www.pluralsight.com/paths/angular",
+   "courses": "18 Courses",
+   "hours": "65 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png?w=75"
+  },
+  {
+   "name": "Application Development on Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/application-development-on-microsoft-azure",
+   "courses": "9 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Application Security on Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/application-security-on-microsoft-azure",
+   "courses": "8 Courses",
+   "hours": "24 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Architecting in AWS",
+   "url": "https://www.pluralsight.com/paths/architecting-in-aws",
+   "courses": "5 Courses",
+   "hours": "18 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "Architecting with Google Cloud - Foundations",
+   "url": "https://www.pluralsight.com/paths/architecting-with-google-cloud-foundations",
+   "courses": "3 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png?w=75"
+  },
+  {
+   "name": "Architecting with Google Compute Engine",
+   "url": "https://www.pluralsight.com/paths/architecting-with-google-compute-engine",
+   "courses": "5 Courses",
+   "hours": "17 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png?w=75"
+  },
+  {
+   "name": "Architecting with Google Kubernetes Engine",
+   "url": "https://www.pluralsight.com/paths/architecting-with-google-kubernetes-engine",
+   "courses": "4 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png?w=75"
+  },
+  {
+   "name": "ASP.NET Core",
+   "url": "https://www.pluralsight.com/paths/aspnet-core",
+   "courses": "15 Courses",
+   "hours": "41 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/dot-net-e535ca86d0.png?w=75"
+  },
+  {
+   "name": "ASP.NET Microservices",
+   "url": "https://www.pluralsight.com/paths/net-microservices",
+   "courses": "9 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "ASP.NET MVC 5",
+   "url": "https://www.pluralsight.com/paths/mvc5",
+   "courses": "11 Courses",
+   "hours": "31 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/asp-dot-net-862e3669aa.png?w=75"
+  },
+  {
+   "name": "Automate Infrastructure on AWS with CloudFormation",
+   "url": "https://www.pluralsight.com/paths/automate-infrastructure-on-aws-with-cloudformation",
+   "courses": "6 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "Automating UI Testing with Appium",
+   "url": "https://www.pluralsight.com/paths/automating-ui-testing-with-appium",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "AWS Application Development",
+   "url": "https://www.pluralsight.com/paths/aws-application-development",
+   "courses": "17 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Big Data",
+   "url": "https://www.pluralsight.com/paths/aws-big-data",
+   "courses": "9 Courses",
+   "hours": "26 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Cloud Security",
+   "url": "https://www.pluralsight.com/paths/aws-cloud-security",
+   "courses": "8 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Compute",
+   "url": "https://www.pluralsight.com/paths/aws-compute",
+   "courses": "6 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Databases",
+   "url": "https://www.pluralsight.com/paths/aws-databases",
+   "courses": "8 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS IoT",
+   "url": "https://www.pluralsight.com/paths/aws-iot-path",
+   "courses": "8 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Machine Learning / AI",
+   "url": "https://www.pluralsight.com/paths/aws-machine-learning-ai",
+   "courses": "9 Courses",
+   "hours": "17 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Networking",
+   "url": "https://www.pluralsight.com/paths/aws-networking",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Operations",
+   "url": "https://www.pluralsight.com/paths/aws-operations",
+   "courses": "7 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Scalability",
+   "url": "https://www.pluralsight.com/paths/aws-scalability",
+   "courses": "3 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "AWS Storage",
+   "url": "https://www.pluralsight.com/paths/aws-storage",
+   "courses": "7 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "Bringing Data Science into the Business",
+   "url": "https://www.pluralsight.com/paths/bringing-data-science-into-the-business",
+   "courses": "3 Courses",
+   "hours": "3 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Build Alexa Skills on AWS",
+   "url": "https://www.pluralsight.com/paths/build-alexa-skills-on-aws",
+   "courses": "5 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "Build an Enterprise Cloud Strategy",
+   "url": "https://www.pluralsight.com/paths/build-an-enterprise-cloud-strategy",
+   "courses": "4 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/azure-fake-e948e10f4b.png?w=75"
+  },
+  {
+   "name": "Build Mobile Applications With React Native",
+   "url": "https://www.pluralsight.com/paths/build-mobile-applications-with-react-native",
+   "courses": "8 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Cross-platform Apps with Xamarin Forms",
+   "url": "https://www.pluralsight.com/paths/building-cross-platform-apps-with-xamarin-forms",
+   "courses": "21 Courses",
+   "hours": "41 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/xamarin-f6ffbcd4da.png?w=75"
+  },
+  {
+   "name": "Building Data Pipelines in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/building-data-pipelines-in-microsoft-azure",
+   "courses": "4 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/mcsa-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Building Data Storage Solutions with Microsoft Azure Services",
+   "url": "https://www.pluralsight.com/paths/building-data-storage-solutions-with-microsoft-azure-services",
+   "courses": "5 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Building Deep Learning Solutions with PyTorch",
+   "url": "https://www.pluralsight.com/paths/building-deep-learning-solutions-with-pytorch",
+   "courses": "9 Courses",
+   "hours": "22 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Dynamic Websites with jQuery",
+   "url": "https://www.pluralsight.com/paths/building-dynamic-websites-with-jquery",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/jquery-c93ba170c1.png?w=75"
+  },
+  {
+   "name": "Building Machine Learning Solutions with Java",
+   "url": "https://www.pluralsight.com/paths/building-machine-learning-solutions-with-java",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Machine Learning Solutions with MATLAB",
+   "url": "https://www.pluralsight.com/paths/building-machine-learning-solutions-with-matlab",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Machine Learning Solutions with scikit-learn",
+   "url": "https://www.pluralsight.com/paths/building-machine-learning-solutions-with-scikit-learn",
+   "courses": "10 Courses",
+   "hours": "24 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Machine Learning Solutions with Tensorflow",
+   "url": "https://www.pluralsight.com/paths/tensorflow",
+   "courses": "11 Courses",
+   "hours": "28 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/tensorflow-5fbdaa43cf.png?w=75"
+  },
+  {
+   "name": "Building Machine Learning Solutions with TensorFlow 2.0",
+   "url": "https://www.pluralsight.com/paths/building-machine-learning-solutions-with-tensorflow-20",
+   "courses": "5 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/tensorflow-5fbdaa43cf.png?w=75"
+  },
+  {
+   "name": "Building Progressive Web Applications",
+   "url": "https://www.pluralsight.com/paths/building-progressive-web-applications",
+   "courses": "10 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Serverless Applications on AWS",
+   "url": "https://www.pluralsight.com/paths/building-serverless-applications-on-aws",
+   "courses": "11 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "Building Statistical and Mathematical Models with R",
+   "url": "https://www.pluralsight.com/paths/building-statistical-and-mathematical-models-with-r",
+   "courses": "9 Courses",
+   "hours": "21 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Building Web Applications with Blazor",
+   "url": "https://www.pluralsight.com/paths/building-web-applications-with-blazor",
+   "courses": "8 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Web Applications with Django",
+   "url": "https://www.pluralsight.com/paths/building-web-applications-with-django",
+   "courses": "8 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Web Applications with Flask",
+   "url": "https://www.pluralsight.com/paths/building-web-applications-with-flask",
+   "courses": "6 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Building Web Applications with React",
+   "url": "https://www.pluralsight.com/paths/building-web-applications-with-react",
+   "courses": "16 Courses",
+   "hours": "38 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/react-c618d5c243.png?w=75"
+  },
+  {
+   "name": "Building Web Apps with Ruby On Rails",
+   "url": "https://www.pluralsight.com/paths/building-web-apps-with-ruby-on-rails",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/ruby-on-rails-afc3db8e82.png?w=75"
+  },
+  {
+   "name": "Building Web Apps with Vue",
+   "url": "https://www.pluralsight.com/paths/building-web-apps-with-vue",
+   "courses": "12 Courses",
+   "hours": "24 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/vue-7945830e6c.js.png?w=75"
+  },
+  {
+   "name": "Building Websites with HTML, CSS and JavaScript",
+   "url": "https://www.pluralsight.com/paths/building-websites-with-html-css-and-javascript",
+   "courses": "18 Courses",
+   "hours": "30 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Business Communications with Data",
+   "url": "https://www.pluralsight.com/paths/business-communications-with-data",
+   "courses": "21 Courses",
+   "hours": "44 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/fundamentals-of-it-operations-95797723fe.png?w=75"
+  },
+  {
+   "name": "C Development Fundamentals",
+   "url": "https://www.pluralsight.com/paths/c-development-fundamentals",
+   "courses": "9 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "C# Development Fundamentals",
+   "url": "https://www.pluralsight.com/paths/csharp",
+   "courses": "16 Courses",
+   "hours": "38 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png?w=75"
+  },
+  {
+   "name": "C# Unit Testing with NUnit",
+   "url": "https://www.pluralsight.com/paths/c-unit-testing-with-nunit",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/nunit-261ab03561.png?w=75"
+  },
+  {
+   "name": "C# Unit Testing with xUnit",
+   "url": "https://www.pluralsight.com/paths/c-unit-testing-with-xunit",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/xunit-17f55c98bd.png?w=75"
+  },
+  {
+   "name": "C++",
+   "url": "https://www.pluralsight.com/paths/c-plus-plus",
+   "courses": "13 Courses",
+   "hours": "44 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png?w=75"
+  },
+  {
+   "name": "Certified Business Analysis Professional (CBAP®)",
+   "url": "https://www.pluralsight.com/paths/business-analysis-cbap",
+   "courses": "15 Courses",
+   "hours": "34 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Cleaning Data with R",
+   "url": "https://www.pluralsight.com/paths/cleaning-data-with-r",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Cloud Foundry for Developers",
+   "url": "https://www.pluralsight.com/paths/cloud-foundry-for-developers",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Collaborating and Sharing Knowledge With Confluence",
+   "url": "https://www.pluralsight.com/paths/collaborating-and-sharing-knowledge-with-confluence",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/pmp-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Collaborative Coding with GitHub",
+   "url": "https://www.pluralsight.com/paths/collaborative-coding-with-github",
+   "courses": "10 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/github-d73998c492.png?w=75"
+  },
+  {
+   "name": "Configuration Management Using Ansible",
+   "url": "https://www.pluralsight.com/paths/configuration-management-using-ansible",
+   "courses": "6 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/shellscript-4e32b395e6.png?w=75"
+  },
+  {
+   "name": "Configuration Management Using Ansible on Windows",
+   "url": "https://www.pluralsight.com/paths/configuration-management-using-ansible-on-windows",
+   "courses": "2 Courses",
+   "hours": "3 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/shellscript-4e32b395e6.png?w=75"
+  },
+  {
+   "name": "Configuration Management Using Chef",
+   "url": "https://www.pluralsight.com/paths/configuration-management-using-chef",
+   "courses": "5 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/apple-certified-technical-coordinator-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Configuration Management Using Puppet",
+   "url": "https://www.pluralsight.com/paths/configuration-management-using-puppet",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Configuring Identity and Access in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/configuring-identity-and-access-in-microsoft-azure",
+   "courses": "4 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Continuous Integration with Jenkins",
+   "url": "https://www.pluralsight.com/paths/continuous-integration-with-jenkins",
+   "courses": "8 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Continuous Integration with TeamCity",
+   "url": "https://www.pluralsight.com/paths/continuous-integration-with-teamcity",
+   "courses": "7 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Core Python",
+   "url": "https://www.pluralsight.com/paths/core-python",
+   "courses": "23 Courses",
+   "hours": "41 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png?w=75"
+  },
+  {
+   "name": "Creative Cloud for UX Design",
+   "url": "https://www.pluralsight.com/paths/creative-cloud-for-ux-design",
+   "courses": "5 Courses",
+   "hours": "22 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Data Analytics Literacy",
+   "url": "https://www.pluralsight.com/paths/data-analytics-literacy",
+   "courses": "6 Courses",
+   "hours": "17 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Data Engineering on Google Cloud",
+   "url": "https://www.pluralsight.com/paths/data-engineering-on-google-cloud-platform",
+   "courses": "5 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png?w=75"
+  },
+  {
+   "name": "Data Integration with Microsoft SSIS",
+   "url": "https://www.pluralsight.com/paths/data-integration-with-microsoft-ssis",
+   "courses": "8 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Data Science Literacy",
+   "url": "https://www.pluralsight.com/paths/data-science-literacy-with-microsoft-azure",
+   "courses": "8 Courses",
+   "hours": "22 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Data Visualization with R",
+   "url": "https://www.pluralsight.com/paths/data-visualization-with-r",
+   "courses": "5 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Data Wrangling with R",
+   "url": "https://www.pluralsight.com/paths/data-wrangling-with-r",
+   "courses": "4 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Delivering Video Content Using Azure Media Services",
+   "url": "https://www.pluralsight.com/paths/delivering-video-content-using-azure-media-services",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Deploying and Managing Microsoft Azure AI Solutions",
+   "url": "https://www.pluralsight.com/paths/deploying-and-managing-microsoft-azure-ai-solutions",
+   "courses": "3 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Deploying Microsoft 365 Collaboration Solutions",
+   "url": "https://www.pluralsight.com/paths/deploying-microsoft-365-collaboration-solutions",
+   "courses": "4 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Deploying Microsoft Azure Data Solutions",
+   "url": "https://www.pluralsight.com/paths/deploying-microsoft-azure-data-solutions",
+   "courses": "3 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Design Patterns in Java",
+   "url": "https://www.pluralsight.com/paths/design-patterns-in-java",
+   "courses": "4 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/java-43581a2b56.png?w=75"
+  },
+  {
+   "name": "Designing Microsoft Azure AI Solutions",
+   "url": "https://www.pluralsight.com/paths/designing-microsoft-azure-ai-solutions",
+   "courses": "6 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Designing Microsoft Azure Applications",
+   "url": "https://www.pluralsight.com/paths/designing-microsoft-azure-applications",
+   "courses": "8 Courses",
+   "hours": "18 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Developing and Running Applications on Heroku",
+   "url": "https://www.pluralsight.com/paths/developing-and-running-applications-on-heroku",
+   "courses": "8 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Developing Android Applications with Kotlin",
+   "url": "https://www.pluralsight.com/paths/android-development-with-kotlin-fundamentals",
+   "courses": "13 Courses",
+   "hours": "24 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/android-6581101a28.png?w=75"
+  },
+  {
+   "name": "Developing Microsoft Azure AI Solutions",
+   "url": "https://www.pluralsight.com/paths/developing-microsoft-azure-ai-solutions",
+   "courses": "5 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Developing SQL Server Databases",
+   "url": "https://www.pluralsight.com/paths/developing-sql-server-databases",
+   "courses": "10 Courses",
+   "hours": "23 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Developing Websites for Accessibility",
+   "url": "https://www.pluralsight.com/paths/developing-websites-for-accessibility",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "DevOps on Oracle Cloud: The Big Picture",
+   "url": "https://www.pluralsight.com/paths/devops-on-oracle-the-big-picture",
+   "courses": "10 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/oracle-140dad22af.png?w=75"
+  },
+  {
+   "name": "Domain-Driven Design",
+   "url": "https://www.pluralsight.com/paths/domain-driven-design",
+   "courses": "9 Courses",
+   "hours": "33 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/domain-driven-design-6d10f953a0.png?w=75"
+  },
+  {
+   "name": "Elastic Stack Fundamentals",
+   "url": "https://www.pluralsight.com/paths/elastic-stack-security-fundamentals",
+   "courses": "7 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Enabling Platform Protection in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/enabling-platform-protection-in-microsoft-azure",
+   "courses": "7 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Engineering Features for Machine Learning in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/engineering-features-for-machine-learning-in-microsoft-azure",
+   "courses": "5 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Entity Framework Core",
+   "url": "https://www.pluralsight.com/paths/entity-framework-core",
+   "courses": "5 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Ethical Hacking Fundamentals",
+   "url": "https://www.pluralsight.com/paths/ethical-hacking-fundamentals",
+   "courses": "21 Courses",
+   "hours": "79 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Event Monitoring and Alerting with Prometheus",
+   "url": "https://www.pluralsight.com/paths/event-monitoring-and-alerting-with-prometheus",
+   "courses": "6 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/networks-13a9b649b9.png?w=75"
+  },
+  {
+   "name": "Exploratory Data Analysis with R",
+   "url": "https://www.pluralsight.com/paths/exploratory-data-analysis-with-r",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Feature Engineering",
+   "url": "https://www.pluralsight.com/paths/feature-engineering",
+   "courses": "6 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "From Data to Insights with Google Cloud",
+   "url": "https://www.pluralsight.com/paths/data-analytics-on-google-cloud-platform",
+   "courses": "4 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png?w=75"
+  },
+  {
+   "name": "Fundamentals of DevSecOps",
+   "url": "https://www.pluralsight.com/paths/fundamentals-of-devsecops",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Fundamentals of Virtualization",
+   "url": "https://www.pluralsight.com/paths/fundamentals-of-virtualization",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/networks-13a9b649b9.png?w=75"
+  },
+  {
+   "name": "Go Core Language",
+   "url": "https://www.pluralsight.com/paths/go-core-language",
+   "courses": "18 Courses",
+   "hours": "31 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Google Cloud Big Data - Foundations",
+   "url": "https://www.pluralsight.com/paths/big-data-foundations",
+   "courses": "3 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png?w=75"
+  },
+  {
+   "name": "Google: Associate Android Developer (AAD)",
+   "url": "https://www.pluralsight.com/paths/google-android-associate-developer-aad",
+   "courses": "8 Courses",
+   "hours": "28 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/android-53f8da146d.png?w=75"
+  },
+  {
+   "name": "Graphic Design",
+   "url": "https://www.pluralsight.com/paths/graphic-design",
+   "courses": "21 Courses",
+   "hours": "30 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/graphic-design-8e71846112.png?w=75"
+  },
+  {
+   "name": "GraphQL API's with Apollo",
+   "url": "https://www.pluralsight.com/paths/building-graphql-apis-with-apollo",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Group Policy Administration",
+   "url": "https://www.pluralsight.com/paths/group-policy-administration",
+   "courses": "5 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Handling Streaming Data with Messaging Systems",
+   "url": "https://www.pluralsight.com/paths/handling-streaming-data-with-messaging-systems",
+   "courses": "11 Courses",
+   "hours": "28 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "IBM QRadar Incident Detection and Response",
+   "url": "https://www.pluralsight.com/paths/ibm-qradar-incident-detection-and-response",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Identity and Access Management on AWS",
+   "url": "https://www.pluralsight.com/paths/identity-and-access-management-on-aws",
+   "courses": "4 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png?w=75"
+  },
+  {
+   "name": "Illustrator CC for Creative Professionals",
+   "url": "https://www.pluralsight.com/paths/illustrator",
+   "courses": "14 Courses",
+   "hours": "33 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/illustrator-6035a970d1.png?w=75"
+  },
+  {
+   "name": "Implementing Build Automation with Bamboo",
+   "url": "https://www.pluralsight.com/paths/implementing-build-automation-with-bamboo",
+   "courses": "4 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Implementing DevOps with GitHub and Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/implementing-devops-with-github-and-microsoft-azure",
+   "courses": "7 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/dot-net-e535ca86d0.png?w=75"
+  },
+  {
+   "name": "Implementing IT Automation with Salt Open",
+   "url": "https://www.pluralsight.com/paths/implementing-it-automation-with-salt-open",
+   "courses": "8 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/apple-certified-technical-coordinator-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Implementing the Data Science Workflow in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/implementing-the-data-science-workflow-in-microsoft-azure",
+   "courses": "9 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Importing Data with R",
+   "url": "https://www.pluralsight.com/paths/importing-data-with-r",
+   "courses": "2 Courses",
+   "hours": "3 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Increasing Efficiency with Kanban",
+   "url": "https://www.pluralsight.com/paths/increasing-efficiency-with-kanban",
+   "courses": "5 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "InDesign CC for Creative Professionals",
+   "url": "https://www.pluralsight.com/paths/indesign-cc-creative-professionals",
+   "courses": "10 Courses",
+   "hours": "29 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/indesign-dd4d3dcd74.png?w=75"
+  },
+  {
+   "name": "Information Security Testing and Auditing with Nmap",
+   "url": "https://www.pluralsight.com/paths/information-security-testing-and-auditing-with-nmap",
+   "courses": "4 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Infrastructure as a Service (IaaS) using Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/infrastructure-as-a-service-iaas-using-microsoft-azure",
+   "courses": "7 Courses",
+   "hours": "23 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Installation, Storage, and Computing with Windows Server 2019",
+   "url": "https://www.pluralsight.com/paths/installation-storage-and-computing-with-windows-server-2019",
+   "courses": "6 Courses",
+   "hours": "18 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Integration on Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/integration-on-microsoft-azure",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Interpreting Data with Python",
+   "url": "https://www.pluralsight.com/paths/interpreting-data-with-python",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png?w=75"
+  },
+  {
+   "name": "Interpreting Data with R",
+   "url": "https://www.pluralsight.com/paths/interpreting-data-with-r",
+   "courses": "3 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Introduction to Professional Scrum",
+   "url": "https://www.pluralsight.com/paths/introduction-to-professional-scrum",
+   "courses": "6 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/scrum-dd0fe75978.png?w=75"
+  },
+  {
+   "name": "Inventor: Core Skills",
+   "url": "https://www.pluralsight.com/paths/inventor-core-skills",
+   "courses": "12 Courses",
+   "hours": "23 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/inventor-be5aeafb23.png?w=75"
+  },
+  {
+   "name": "iOS App Development — Fundamentals",
+   "url": "https://www.pluralsight.com/paths/ios",
+   "courses": "14 Courses",
+   "hours": "36 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/swift-ae81d7c6b0.png?w=75"
+  },
+  {
+   "name": "IT Governance Foundation",
+   "url": "https://www.pluralsight.com/paths/it-governance-foundation",
+   "courses": "6 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/apple-certified-technical-coordinator-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "IT Outsourcing",
+   "url": "https://www.pluralsight.com/paths/it-outsourcing",
+   "courses": "4 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/pmp-3c8e439908.png?w=75"
+  },
+  {
+   "name": "IT Support Fundamentals",
+   "url": "https://www.pluralsight.com/paths/computer-maintenance-fundamentals",
+   "courses": "9 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/server-admin-windows-5a32374425.png?w=75"
+  },
+  {
+   "name": "Java Development Environments and Tooling",
+   "url": "https://www.pluralsight.com/paths/java-tooling",
+   "courses": "6 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/java-43581a2b56.png?w=75"
+  },
+  {
+   "name": "Java EE Foundations",
+   "url": "https://www.pluralsight.com/paths/java-ee-foundations",
+   "courses": "10 Courses",
+   "hours": "32 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/java-ee-e590f9fc16.png?w=75"
+  },
+  {
+   "name": "Java Language Fundamentals",
+   "url": "https://www.pluralsight.com/paths/java-language-fundamentals",
+   "courses": "24 Courses",
+   "hours": "47 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/java-43581a2b56.png?w=75"
+  },
+  {
+   "name": "Java Unit Testing",
+   "url": "https://www.pluralsight.com/paths/unit-testing-in-java",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/java-ee-e590f9fc16.png?w=75"
+  },
+  {
+   "name": "JavaScript Core Language",
+   "url": "https://www.pluralsight.com/paths/javascript-core-language",
+   "courses": "10 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png?w=75"
+  },
+  {
+   "name": "Juniper Networks Networking Fundamentals",
+   "url": "https://www.pluralsight.com/paths/juniper-networks-networking-fundamentals",
+   "courses": "7 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/juniper-copy-7f5330852d.png?w=75"
+  },
+  {
+   "name": "Kubernetes Administration",
+   "url": "https://www.pluralsight.com/paths/kubernetes-administration",
+   "courses": "7 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/kubernetes-fec49f3ad6.png?w=75"
+  },
+  {
+   "name": "Lean Six Sigma (Yellow Belt)",
+   "url": "https://www.pluralsight.com/paths/lean-six-sigma-yellow-belt",
+   "courses": "4 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/pmp-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Leverage Search, Eventing, and Analytics Services in Couchbase",
+   "url": "https://www.pluralsight.com/paths/leverage-search-eventing-and-analytics-services-in-couchbase",
+   "courses": "6 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Linux Fundamentals",
+   "url": "https://www.pluralsight.com/paths/linux-fundamentals-1",
+   "courses": "3 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/server-admin-linux-cc80e158c8.png?w=75"
+  },
+  {
+   "name": "Machine Learning Literacy",
+   "url": "https://www.pluralsight.com/paths/machine-learning-literacy",
+   "courses": "5 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Malware Analysis",
+   "url": "https://www.pluralsight.com/paths/malware-analysis",
+   "courses": "13 Courses",
+   "hours": "30 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Managing and Orchestrating Containers with Azure Kubernetes Service (AKS)",
+   "url": "https://www.pluralsight.com/paths/managing-and-orchestrating-containers-with-azure-kubernetes-service-aks",
+   "courses": "6 Courses",
+   "hours": "3 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Docker in Production",
+   "url": "https://www.pluralsight.com/paths/managing-docker-in-production",
+   "courses": "8 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/docker-copy-3135ce60d0.png?w=75"
+  },
+  {
+   "name": "Managing Infrastructure with Terraform",
+   "url": "https://www.pluralsight.com/paths/managing-infrastructure-with-terraform",
+   "courses": "4 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Managing Microsoft Azure App Services",
+   "url": "https://www.pluralsight.com/paths/managing-microsoft-azure-app-services",
+   "courses": "5 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Microsoft Azure Compute",
+   "url": "https://www.pluralsight.com/paths/managing-microsoft-azure-compute",
+   "courses": "5 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Microsoft Azure Identity and Security",
+   "url": "https://www.pluralsight.com/paths/managing-microsoft-azure-identity-and-security",
+   "courses": "9 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Microsoft Azure Networking",
+   "url": "https://www.pluralsight.com/paths/managing-microsoft-azure-networking",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Microsoft Azure Storage",
+   "url": "https://www.pluralsight.com/paths/managing-microsoft-azure-storage",
+   "courses": "5 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Microsoft Teams",
+   "url": "https://www.pluralsight.com/paths/managing-microsoft-teams",
+   "courses": "6 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Modern Microsoft Desktops",
+   "url": "https://www.pluralsight.com/paths/managing-modern-microsoft-desktops",
+   "courses": "4 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Requirements",
+   "url": "https://www.pluralsight.com/paths/managing-requirements",
+   "courses": "4 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/pmp-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Managing Security Operations in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/managing-security-operations-in-microsoft-azure",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Managing Source Code with Git",
+   "url": "https://www.pluralsight.com/paths/managing-source-code-with-git",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Mastering Cisco DevNet Application Design and Network Automation Techniques",
+   "url": "https://www.pluralsight.com/paths/mastering-cisco-devnet-application-design-and-network-automation-techniques",
+   "courses": "5 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/cisco-ccna-4d89ba4cfe.png?w=75"
+  },
+  {
+   "name": "Microservices Architecture",
+   "url": "https://www.pluralsight.com/paths/microservices-architecture",
+   "courses": "8 Courses",
+   "hours": "18 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/microservices-49f6448019.png?w=75"
+  },
+  {
+   "name": "Microsoft 365 Basic Concepts and Fundamentals",
+   "url": "https://www.pluralsight.com/paths/microsoft-365-basic-concepts-and-fundamentals",
+   "courses": "3 Courses",
+   "hours": "3 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Azure Compute for Developers",
+   "url": "https://www.pluralsight.com/paths/microsoft-azure-compute-for-developers",
+   "courses": "7 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Azure Deployment",
+   "url": "https://www.pluralsight.com/paths/microsoft-azure-deployment",
+   "courses": "4 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Azure Stack Planning and Operations",
+   "url": "https://www.pluralsight.com/paths/microsoft-azure-stack-planning-and-operations",
+   "courses": "4 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Azure Storage for Developers",
+   "url": "https://www.pluralsight.com/paths/microsoft-azure-storage-for-developers",
+   "courses": "10 Courses",
+   "hours": "21 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Excel Data Manipulation, Presentation, and Analysis",
+   "url": "https://www.pluralsight.com/paths/microsoft-excel-data-manipulation-presentation-and-analysis",
+   "courses": "11 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Excel Programming",
+   "url": "https://www.pluralsight.com/paths/microsoft-excel-programming",
+   "courses": "8 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Power BI for Analysts",
+   "url": "https://www.pluralsight.com/paths/microsoft-power-bi-for-analysts",
+   "courses": "13 Courses",
+   "hours": "35 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Microsoft Windows Fundamentals",
+   "url": "https://www.pluralsight.com/paths/microsoft-windows-fundamentals",
+   "courses": "1 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Modern Windows Deployment, Configuration, and Management",
+   "url": "https://www.pluralsight.com/paths/modern-windows-deployment-configuration-and-management",
+   "courses": "6 Courses",
+   "hours": "18 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Monitoring and Managing Microsoft Azure Data Solutions",
+   "url": "https://www.pluralsight.com/paths/monitoring-and-managing-microsoft-azure-data-solutions",
+   "courses": "6 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Monitoring and Troubleshooting Code on Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/monitoring-and-troubleshooting-code-on-microsoft-azure",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Monitoring Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/monitoring-microsoft-azure",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "MySQL",
+   "url": "https://www.pluralsight.com/paths/mysql",
+   "courses": "8 Courses",
+   "hours": "17 Hours",
+   "image": "https://pluralsight.imgix.net/paths/mysql-e0720d7b98.png?w=75"
+  },
+  {
+   "name": "Networking Fundamentals",
+   "url": "https://www.pluralsight.com/paths/networking-fundamentals",
+   "courses": "6 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/networks-484b57170b.png?w=75"
+  },
+  {
+   "name": "Networking with Windows Server 2016",
+   "url": "https://www.pluralsight.com/paths/networking-with-windows-server-2016",
+   "courses": "10 Courses",
+   "hours": "31 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Payment Card Industry Data Security Standard (PCI DSS)",
+   "url": "https://www.pluralsight.com/paths/payment-card-industry-data-security-standard-pci-dss",
+   "courses": "9 Courses",
+   "hours": "21 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Penetration Testing Fundamentals with the Metasploit Framework",
+   "url": "https://www.pluralsight.com/paths/penetration-testing-fundamentals-with-the-metasploit-framework",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Photoshop for Creative Professionals",
+   "url": "https://www.pluralsight.com/paths/photoshop-for-creative-professionals",
+   "courses": "17 Courses",
+   "hours": "39 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/photoshop-e26c2b1bff.png?w=75"
+  },
+  {
+   "name": "PHP Development Fundamentals",
+   "url": "https://www.pluralsight.com/paths/php-development-fundamentals",
+   "courses": "11 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/php-5712173c10.png?w=75"
+  },
+  {
+   "name": "Planning Microsoft Azure Business Continuity",
+   "url": "https://www.pluralsight.com/paths/planning-microsoft-azure-business-continuity",
+   "courses": "4 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Planning Microsoft Azure Data Solutions",
+   "url": "https://www.pluralsight.com/paths/planning-microsoft-azure-data-solutions",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Planning Microsoft Azure Deployment & Integration",
+   "url": "https://www.pluralsight.com/paths/planning-microsoft-azure-deployment-and-integration",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Planning Microsoft Azure Identity and Security",
+   "url": "https://www.pluralsight.com/paths/planning-microsoft-azure-identity-and-security",
+   "courses": "6 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Planning Microsoft Azure Infrastructure",
+   "url": "https://www.pluralsight.com/paths/planning-microsoft-azure-infrastructure",
+   "courses": "4 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Planning Microsoft Azure Solutions",
+   "url": "https://www.pluralsight.com/paths/planning-microsoft-azure-solutions",
+   "courses": "10 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Planning, Tracking, and Releasing Software with Jira",
+   "url": "https://www.pluralsight.com/paths/planning-tracking-and-releasing-software-with-jira",
+   "courses": "5 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "PowerShell 7 Fundamentals",
+   "url": "https://www.pluralsight.com/paths/powershell-7-fundamentals",
+   "courses": "12 Courses",
+   "hours": "24 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/powershell-4a119eeac9.png?w=75"
+  },
+  {
+   "name": "Premiere Pro CC",
+   "url": "https://www.pluralsight.com/paths/premiere-pro-cc",
+   "courses": "10 Courses",
+   "hours": "24 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/premierepro-8d9cf94dbd.png?w=75"
+  },
+  {
+   "name": "Product Management: Exploring Stakeholder Needs",
+   "url": "https://www.pluralsight.com/paths/exploring-stakeholder-needs",
+   "courses": "7 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Product Management: Exploring the Delivery and Evolution of Products",
+   "url": "https://www.pluralsight.com/paths/exploring-the-delivery-and-evolution-of-products",
+   "courses": "8 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Product Management: Exploring the Product Business",
+   "url": "https://www.pluralsight.com/paths/exploring-the-product-business",
+   "courses": "12 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Programming Data Structures in R",
+   "url": "https://www.pluralsight.com/paths/programming-data-structures-in-r",
+   "courses": "3 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Programming R for Data Analysts",
+   "url": "https://www.pluralsight.com/paths/programming-r-for-data-analysts",
+   "courses": "6 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/r-programming-eb2e267a97.png?w=75"
+  },
+  {
+   "name": "Python for Data Analysts",
+   "url": "https://www.pluralsight.com/paths/python-for-data-analysts",
+   "courses": "11 Courses",
+   "hours": "22 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png?w=75"
+  },
+  {
+   "name": "Qlik Sense for Analysts",
+   "url": "https://www.pluralsight.com/paths/qlik-sense-for-analysts",
+   "courses": "6 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Query and Modify Data in Couchbase with N1QL",
+   "url": "https://www.pluralsight.com/paths/query-and-modify-data-in-couchbase-with-n1ql",
+   "courses": "6 Courses",
+   "hours": "20 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Querying and Modifying Data in MongoDB",
+   "url": "https://www.pluralsight.com/paths/querying-and-modifying-data-in-mongodb",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Querying Data with SQL from PostgreSQL",
+   "url": "https://www.pluralsight.com/paths/querying-data-with-sql-from-postgresql",
+   "courses": "5 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Querying Data with SQL in MariaDB",
+   "url": "https://www.pluralsight.com/paths/querying-data-with-sql-in-mariadb",
+   "courses": "5 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Querying Data with T-SQL from SQL Server",
+   "url": "https://www.pluralsight.com/paths/querying-data-with-t-sql-from-sql-server",
+   "courses": "7 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Ruby Language Fundamentals",
+   "url": "https://www.pluralsight.com/paths/ruby-language-fundamentals",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/ruby-7e88ddd5f0.png?w=75"
+  },
+  {
+   "name": "Salesforce Marketing Cloud Developer",
+   "url": "https://www.pluralsight.com/paths/salesforce-marketing-cloud-developer",
+   "courses": "10 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/salesforce-e8b45b03c6.png?w=75"
+  },
+  {
+   "name": "Scala Language Fundamentals",
+   "url": "https://www.pluralsight.com/paths/scala",
+   "courses": "10 Courses",
+   "hours": "18 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/apple-certified-technical-coordinator-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Scaling Agile - Coaching",
+   "url": "https://www.pluralsight.com/paths/scaling-agile-coaching",
+   "courses": "6 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Scaling Agile - Leading",
+   "url": "https://www.pluralsight.com/paths/scaling-agile-leading",
+   "courses": "5 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Scaling Agile - Managing",
+   "url": "https://www.pluralsight.com/paths/managing-scaled-agile",
+   "courses": "4 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/business-analysis-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Scaling Agile - Practicing",
+   "url": "https://www.pluralsight.com/paths/practicing-scaled-agile",
+   "courses": "3 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/pmp-3c8e439908.png?w=75"
+  },
+  {
+   "name": "Securing ASP.NET and ASP.NET Core Applications",
+   "url": "https://www.pluralsight.com/paths/securing-aspnet-and-aspnet-core-applications",
+   "courses": "14 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/dot-net-e535ca86d0.png?w=75"
+  },
+  {
+   "name": "Securing Data and Applications in Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/securing-data-and-applications-in-microsoft-azure",
+   "courses": "6 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Securing Microsoft Azure Data Solutions",
+   "url": "https://www.pluralsight.com/paths/securing-microsoft-azure-data-solutions",
+   "courses": "4 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Security Event Triage",
+   "url": "https://www.pluralsight.com/paths/security-event-triage-skill",
+   "courses": "10 Courses",
+   "hours": "17 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Security for Hackers and Developers",
+   "url": "https://www.pluralsight.com/paths/security-for-hackers-and-developers",
+   "courses": "6 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Security Management",
+   "url": "https://www.pluralsight.com/paths/security-management",
+   "courses": "16 Courses",
+   "hours": "31 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Server Maintenance Fundamentals",
+   "url": "https://www.pluralsight.com/paths/server-maintenance-fundamentals",
+   "courses": "7 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/server-admin-windows-5a32374425.png?w=75"
+  },
+  {
+   "name": "SharePoint 2016 Foundations",
+   "url": "https://www.pluralsight.com/paths/sharepoint-2016-foundations",
+   "courses": "7 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/sharepoint-28b3133e0a.png?w=75"
+  },
+  {
+   "name": "SharePoint 2016 Practitioner",
+   "url": "https://www.pluralsight.com/paths/sharepoint-2016-practitioner",
+   "courses": "12 Courses",
+   "hours": "40 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/sharepoint-28b3133e0a.png?w=75"
+  },
+  {
+   "name": "SharePoint Server 2019 Deployment and Administration",
+   "url": "https://www.pluralsight.com/paths/sharepoint-server-2019-deployment-and-administration",
+   "courses": "9 Courses",
+   "hours": "25 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "SOLIDWORKS: Core Skills",
+   "url": "https://www.pluralsight.com/paths/solidworks-core-skills",
+   "courses": "20 Courses",
+   "hours": "25 Hours",
+   "image": "https://pluralsight.imgix.net/paths/path-icons/solidworks-114573eb04.png?w=75"
+  },
+  {
+   "name": "Splunk Enterprise Security Administration",
+   "url": "https://www.pluralsight.com/paths/splunk-enterprise-security-administration",
+   "courses": "6 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Splunk Fundamentals",
+   "url": "https://www.pluralsight.com/paths/splunk-fundamentals",
+   "courses": "10 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Spring Framework: Building Web Applications and Services",
+   "url": "https://www.pluralsight.com/paths/spring-framework-building-web-applications-and-services",
+   "courses": "3 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png?w=75"
+  },
+  {
+   "name": "Spring Framework: Core Spring",
+   "url": "https://www.pluralsight.com/paths/spring-framework-core-spring",
+   "courses": "7 Courses",
+   "hours": "10 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png?w=75"
+  },
+  {
+   "name": "Spring Framework: Data Access with Spring",
+   "url": "https://www.pluralsight.com/paths/spring-framework-data-access-with-spring",
+   "courses": "5 Courses",
+   "hours": "12 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png?w=75"
+  },
+  {
+   "name": "Spring Framework: Securing Spring Applications",
+   "url": "https://www.pluralsight.com/paths/spring-framework-securing-spring-applications",
+   "courses": "5 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png?w=75"
+  },
+  {
+   "name": "Spring Framework: Spring Integration",
+   "url": "https://www.pluralsight.com/paths/spring-framework-spring-integration",
+   "courses": "5 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png?w=75"
+  },
+  {
+   "name": "Stream Processing with Apache Spark Structured Streaming and Azure Databricks",
+   "url": "https://www.pluralsight.com/paths/stream-processing-with-apache-spark-structured-streaming-and-azure-databricks",
+   "courses": "6 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Styling the Web with Bootstrap",
+   "url": "https://www.pluralsight.com/paths/styling-the-web-with-bootstrap",
+   "courses": "5 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Tableau Desktop for Analysts",
+   "url": "https://www.pluralsight.com/paths/tableau-desktop-for-analysts-100",
+   "courses": "8 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Testing on Microsoft Azure",
+   "url": "https://www.pluralsight.com/paths/testing-on-microsoft-azure",
+   "courses": "3 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Threat Modeling",
+   "url": "https://www.pluralsight.com/paths/threat-modeling",
+   "courses": "6 Courses",
+   "hours": "9 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Typescript Core Language",
+   "url": "https://www.pluralsight.com/paths/typescript-core-language",
+   "courses": "10 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/typescript-1169369a3e.png?w=75"
+  },
+  {
+   "name": "Understanding Cisco DevNet Software Development and Network Programmability Fundamentals",
+   "url": "https://www.pluralsight.com/paths/understanding-cisco-devnet-software-development-and-network-programmability-fundamentals",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/cisco-ccna-4d89ba4cfe.png?w=75"
+  },
+  {
+   "name": "Understanding DevOps",
+   "url": "https://www.pluralsight.com/paths/understanding-devops",
+   "courses": "9 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/devops-18b91372ed.png?w=75"
+  },
+  {
+   "name": "Unity Game Dev: Fundamentals",
+   "url": "https://www.pluralsight.com/paths/unity-game-development-core-skills",
+   "courses": "12 Courses",
+   "hours": "26 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/unity-7499232fd3.png?w=75"
+  },
+  {
+   "name": "Unity Virtual Reality Development",
+   "url": "https://www.pluralsight.com/paths/unity-virtual-reality-development",
+   "courses": "9 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/unity-7499232fd3.png?w=75"
+  },
+  {
+   "name": "Using Access 2019",
+   "url": "https://www.pluralsight.com/paths/using-access-2019",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Using Excel 2019",
+   "url": "https://www.pluralsight.com/paths/using-excel-2019",
+   "courses": "3 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Using Kubernetes as a Developer",
+   "url": "https://www.pluralsight.com/paths/using-kubernetes-as-a-developer",
+   "courses": "5 Courses",
+   "hours": "14 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/kubernetes-fec49f3ad6.png?w=75"
+  },
+  {
+   "name": "Using Microsoft Office 2016",
+   "url": "https://www.pluralsight.com/paths/using-microsoft-office-2016",
+   "courses": "15 Courses",
+   "hours": "34 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-project-7fea631277.png?w=75"
+  },
+  {
+   "name": "Using Microsoft Office 2019",
+   "url": "https://www.pluralsight.com/paths/using-microsoft-office-2019",
+   "courses": "23 Courses",
+   "hours": "51 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Using Microsoft Project 2019",
+   "url": "https://www.pluralsight.com/paths/using-microsoft-project-2019",
+   "courses": "3 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-storage-plus-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Using Outlook 2019",
+   "url": "https://www.pluralsight.com/paths/using-outlook-2019",
+   "courses": "3 Courses",
+   "hours": "4 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Using PowerPoint 2019",
+   "url": "https://www.pluralsight.com/paths/using-powerpoint-2019",
+   "courses": "3 Courses",
+   "hours": "7 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Using the Scrum Framework",
+   "url": "https://www.pluralsight.com/paths/the-scrum-framework",
+   "courses": "7 Courses",
+   "hours": "13 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png?w=75"
+  },
+  {
+   "name": "UX Design",
+   "url": "https://www.pluralsight.com/paths/ux-design",
+   "courses": "4 Courses",
+   "hours": "5 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "UX Research",
+   "url": "https://www.pluralsight.com/paths/ux-research",
+   "courses": "4 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Visual Design for UX",
+   "url": "https://www.pluralsight.com/paths/visual-design-for-ux",
+   "courses": "5 Courses",
+   "hours": "6 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/macmanagementbasics-17fcd0c81c.png?w=75"
+  },
+  {
+   "name": "Visual Studio 2019",
+   "url": "https://www.pluralsight.com/paths/visual-studio-2019",
+   "courses": "10 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/visualstudio-2019-62bfdf4c9e.png?w=75"
+  },
+  {
+   "name": "Web Application Security",
+   "url": "https://www.pluralsight.com/paths/web-application-security",
+   "courses": "14 Courses",
+   "hours": "39 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png?w=75"
+  },
+  {
+   "name": "Web Scraping with Python",
+   "url": "https://www.pluralsight.com/paths/web-scraping-with-python",
+   "courses": "7 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/python-7be70baaac.png?w=75"
+  },
+  {
+   "name": "Windows PowerShell: Essentials",
+   "url": "https://www.pluralsight.com/paths/windows-powershell-essentials",
+   "courses": "5 Courses",
+   "hours": "16 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/powershell-a98a1ad445.png?w=75"
+  },
+  {
+   "name": "Windows Server 2016 Management",
+   "url": "https://www.pluralsight.com/paths/windows-server-management",
+   "courses": "5 Courses",
+   "hours": "15 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/windows-2c3eb3c539.png?w=75"
+  },
+  {
+   "name": "Windows Server Administration Concepts",
+   "url": "https://www.pluralsight.com/paths/windows-server-administration-concepts",
+   "courses": "7 Courses",
+   "hours": "11 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png?w=75"
+  },
+  {
+   "name": "Working with Node.js",
+   "url": "https://www.pluralsight.com/paths/working-with-nodejs",
+   "courses": "12 Courses",
+   "hours": "19 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png?w=75"
+  },
+  {
+   "name": "Working with REST API's in JavaScript",
+   "url": "https://www.pluralsight.com/paths/working-with-rest-apis-in-javascript",
+   "courses": "6 Courses",
+   "hours": "8 Hours",
+   "image": "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png?w=75"
+  }
+ ]
+}

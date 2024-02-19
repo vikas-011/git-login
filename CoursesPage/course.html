@@ -1,0 +1,156 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="icon" type="image/x-icon" href="../images/PS_logo.png">
+    <link rel="stylesheet" href="../styles/course-details.css" />
+    <link rel="stylesheet" href="../styles/index.css" />
+
+    <title>Courses</title>
+    <link rel="stylesheet" href="course.css">
+</head>
+<body onload="append(all_data)">
+    
+    <div id="navItems"></div>
+    <div id="nav"></div>
+    <div id="searchBar"></div>
+    
+<div id="djcont">
+
+
+
+    <div id="dj_discount_image">
+        <img src="discount.png" alt="">
+    </div>
+    <div id="dj_skills_title">
+        <h3>SKILLS</h3>
+        <h2>Thousands of courses authored by <br>
+            our network of industry experts</h2>
+    </div>
+    <div id="dj_search">
+        <input type="text" id="search" placeholder="Search">
+        <div >
+            <select name="" id="dj_sort" style="border: none;">
+                <option value="">SORT</option>
+                <option value="">Highest Rated</option>
+                <option value="">Newest</option>
+                <option value="">Course A-Z</option>
+                <option value="">Course Z-A</option>
+            </select>
+        </div>
+    </div>
+    <div id="dj_course_filter">
+        <div id="dj_course_filter_sidebar">
+            
+<label for="">Ways To Learn</label> <br>
+            
+            <fieldset style="border: none;border-top:1px solid gray;">
+                <label><input type="radio" name="radio" value="1" onclick="append(all_data)">All</label><br>
+                <label><input type="radio" name="radio" value="2" onclick="append(core_data)">Core courses</label><br>
+                <label><input type="radio" name="radio" value="3" onclick="append(expand_data)"> Expanded courses</label><br>
+                <label><input type="radio" name="radio" value="3" onclick="append(labs_data)"> Labs</label><br>
+              </fieldset>
+              <!--Skill Level-->
+              <label for="" >Skill Level</label> <br>
+        
+            <fieldset style="border: none;border-top:1px solid gray;">
+                <label><input type="radio" name="radio" value="1" onclick="advanced()">Advanced</label><br>
+                <label><input type="radio" name="radio" value="2" onclick="beginner()">Beginner </label><br>
+                <label><input type="radio" name="radio" value="3" onclick="intermediate()">Intermediate</label><br>
+              </fieldset>
+
+              <label for="">Subject</label> <br>
+              <fieldset style="border: none;border-top:1px solid gray;">
+                <label><input type="radio" name="radio" value="1" onclick="append(arch_data)">Architecture & construction </label><br>
+                <label><input type="radio" name="radio" value="2" onclick="append(busi_data)">Business professional</label><br>
+                <label><input type="radio" name="radio" value="3" onclick="append(cret_data)">Creative professional</label><br>
+                <label><input type="radio" name="radio" value="4" onclick="append(data_data)"> Data professional</label><br>
+                <label><input type="radio" name="radio" value="5" onclick="append(it_data)"> IT ops</label><br>
+                <label><input type="radio" name="radio" value="6" onclick="append(manu_data)">Manufacturing & design</label><br>
+                <label><input type="radio" name="radio" value="7" onclick="append(info_data)">  Information & cyber security</label><br>
+                <label><input type="radio" name="radio" value="8" onclick="append(soft_data)">Software development</label><br>
+                <label><input type="radio" name="radio" value="8" onclick="append(web_data)">Web development</label><br>
+              </fieldset>
+              
+              
+
+              
+              
+             
+              
+            
+
+        </div>
+        <div id="dj_course_filter_body">
+            
+        </div>
+    </div>
+   
+    <h3 style="margin-left:90px;margin-top:230px">Browse by link</h3>
+    <div id="dj_browse_link">
+       
+        <div id="dj_Software Development">
+            <h4>Software Development</h4>
+            <ul>
+                <li>Web Development</li>
+                <li>Mobile Development</li>
+                <li>JavaScript</li>
+                <li>C#</li>
+                <li>Python</li>
+                <li>Node.js</li>
+                <li>View more ></li>
+            </ul>
+            <h4>Data Professional</h4>
+               <h4> Architecture & Construction</h4>
+        </div>
+        <div id="dj_it">
+            <h4>IT Ops</h4>
+            <ul>
+                <li>IT Certifications</li>
+                <li>Security</li>
+                <li>Database Administration </li>
+                <li>Virtualization</li>
+                <li>IT Networking</li>
+                <li>Servers</li>
+                <li>View more ></li>
+            </ul>
+            <h4>Business Professional</h4>
+               <h4>Manufacturing & Design </h4>
+        </div>
+        <div id="dj_information">
+            <h4>Information & Cyber Security</h4>
+            <ul>
+                <li>Security Certifications</li>
+                <li>Security Fundamentals</li>
+                <li>Security Auditing </li>
+                <li>Penetration Testing</li>
+                <li>Digital Forensics</li>
+                <li> Malware Analysis</li>
+                <li>View more ></li>
+            </ul>
+        </div>
+    </div>
+</div>
+    <div id="footer"></div>
+
+</body>
+</html>
+<script src="course.js"></script>
+
+<script src="../scripts/course-details.js"></script>
+<script type="module" src="../scripts/import-nav-footer.js"></script>
+<script type="module" src="../scripts/navbar.js"></script>
+<script type="module" src="../scripts/search.js"></script>
+
+
+
+
+
+
+
+
+
+
+

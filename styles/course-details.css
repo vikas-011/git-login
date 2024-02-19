@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@400&family=Source+Sans+Pro&display=swap");
+
+* {
+  font-family: "Prompt", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  letter-spacing: 1px;
+}
+body {
+  background-color: #000000;
+}
+body > div {
+  margin: 4px;
+}
+p {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1 {
+  line-height: 1.3em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+#full-box {
+  margin-top: 100px;
+  width: 100%;
+  height: 90vh;
+  background-image: url("https://pluralsight.imgix.net/course-images/protractor-introduction-v1.jpg?w=1078");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#full-div {
+  background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+#full-div h1 {
+  font-size: 50px;
+}
+
+#full-div button {
+  margin: 20px 0;
+  cursor: pointer;
+  padding: 15px;
+  width: 260px;
+  height: 50px;
+  font-weight: 800;
+  color: #ffffff;
+  background-image: linear-gradient(to right, #e80c88 0%, #f15b2c 100%);
+  border: none;
+  border-radius: 2px;
+}
+#full-div button:hover {
+  animation: colorChange 3s linear infinite;
+}
+
+@keyframes colorChange {
+  0% {
+    background: #f05a28;
+  }
+  50% {
+    background: #ec008c;
+  }
+  100% {
+    background: #f05a28;
+  }
+}
+
+#full-div > div:nth-child(1) {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 10% 30px;
+}
+#full-div > div > div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px 10px;
+  height: 30px;
+}
+#full-div > div > div > img {
+  margin: auto 10px auto 0;
+  height: 60%;
+}
+.short-dis {
+  width: 60%;
+  font-size: 20px;
+}
+#middel-box {
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #181818;
+}
+#middel-box > div:nth-child(1) {
+  width: 30%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+#middel-box > div:nth-child(2) {
+  width: 70%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+#middel-box > div > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 3px solid #000000;
+  box-sizing: border-box;
+}
+
+#middel-box > div > div > div {
+  height: 20px;
+}
+#middel-box > div > div > div p {
+  display: inline-block;
+}
+#middel-box img {
+  height: 100%;
+  margin: auto 10px;
+}
+#left > h3 {
+  padding: 20px 0;
+}
+#right > h3 {
+  padding: 20px 0;
+}
+#author {
+  display: flex;
+  box-sizing: border-box;
+  background-color: #181818;
+}
+#photo {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px 0;
+}
+#photo img {
+  border-radius: 50%;
+}
+#about {
+  box-sizing: border-box;
+  width: 70%;
+  padding: 30px;
+}
+#about > h3 {
+  padding: 20px 0;
+}

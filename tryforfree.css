@@ -1,0 +1,652 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@400&family=Source+Sans+Pro&display=swap");
+
+
+
+.kaheading {
+  background-image: url("https://www.pluralsight.com/content/pluralsight/en/pricing/free-trial/jcr:content/main/generic_block/image-res.img.eca98c8c-0ae1-41a2-a142-f0516473a2e5.jpg");
+  padding: 4% 0% 0% 0%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 99vw;
+  margin: auto;
+  text-align: center;
+  height: 50vh;
+}
+
+.kaheading > h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+  margin-bottom: 0px;
+}
+
+.kaparentDiv {
+  border: 1px solid white;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  width: 250px;
+}
+
+.kasliderBarDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 30px;
+  margin-left: 25%;
+  /* margin-top: 90px; */
+  width: 40%;
+}
+
+.kasliderPercentages {
+  position: absolute;
+  z-index: 1;
+  margin: -15px 0px;
+  /* border: 1px solid greenyellow; */
+  display: flex;
+  justify-content: space-around;
+}
+
+.kasliderTags {
+  position: absolute;
+  margin: 1px 0px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.kasliderZeroPercent {
+  width: 82px;
+  height: 65px;
+
+  cursor: pointer;
+}
+.kasliderFiftyPercent {
+  width: 82px;
+  height: 65px;
+
+  cursor: pointer;
+}
+.kasliderHundredPercent {
+  width: 82px;
+  height: 65px;
+
+  cursor: pointer;
+}
+
+.kasliderTags1 {
+  position: absolute;
+  margin: 1px -23px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.kasliderZeroPercent1 {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+}
+.kasliderFiftyPercent1 {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+}
+.kasliderHundredPercent1 {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+}
+
+
+.kaslider0 {
+  width: 15px;
+  border: 4px solid #f29f13;
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.kacircleSlider0 {
+  position: absolute;
+  background-image: url("https://www.pluralsight.com/content/dam/pluralsight2/product/v2/logos/pricing-slider.svg");
+  width: 70px;
+  height: 60px;
+  margin: -30px -15px;
+  cursor: grab;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.kaslider50 {
+  width: 120px;
+  border: 4px solid #f29f13;
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.kacircleSlider50 {
+  position: absolute;
+  background-image: url("https://www.pluralsight.com/content/dam/pluralsight2/product/v2/logos/pricing-slider.svg");
+  width: 70px;
+  height: 60px;
+  margin: -30px 80px;
+  cursor: grab;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.kaslider100 {
+  width: 240px;
+  border: 4px solid #f29f13;
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.kacircleSlider100 {
+  position: absolute;
+  background-image: url("https://www.pluralsight.com/content/dam/pluralsight2/product/v2/logos/pricing-slider.svg");
+  width: 70px;
+  height: 60px;
+  margin: -30px 200px;
+  cursor: grab;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.kamainDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 80px auto auto;
+}
+
+.kadataDiv {
+  width: 80%;
+}
+
+.kamonthlyYearlyButton {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 70px;
+
+  align-items: center;
+  gap: 20px;
+}
+
+.kacardsData {
+  text-align: center;
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.kafourteenDayTrial {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.kafourteenDayTrial > div {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.kanumberOfSubscription {
+  text-align: left;
+}
+
+.kanumberOfSubscription > h2 {
+  margin-bottom: 3px;
+}
+.kanumberOfSubscription > p {
+  margin-top: 2px;
+}
+
+.kaindividualAndTeamBtns {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.kaindividualAndTeamBtns > div {
+  margin: 1%;
+}
+
+/* button group 1 */
+.kabuttonGroup1 {
+  display: flex;
+  justify-content: space-around;
+
+  background-color: black;
+  border: 1px solid gray;
+  width: 415px;
+  height: 70px;
+  border-radius: 50px;
+
+  transition: all 0.5s ease-in-out;
+}
+
+.kaindividualBtn {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  color: white;
+  font-size: 15px;
+  font-weight: 900;
+
+  cursor: pointer;
+}
+
+.kainnerOval {
+  background-color: #4e4c4c;
+
+  position: absolute;
+  margin-right: 207.75px;
+  width: 207.5px;
+  height: 70px;
+
+  border-radius: 50px;
+  opacity: 0.6;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+
+.kabuttonGroup1.active {
+  background: #363636;
+}
+
+.kabuttonGroup1.active > .kainnerOval {
+  margin-left: 411px;
+}
+
+.kateamBtn {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+
+  color: white;
+  font-size: 15px;
+  font-weight: 900;
+
+  cursor: pointer;
+}
+/* button group 1 end */
+
+/* button group 2 */
+.kabuttonGroup2 {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  transform: translate(-50, -50);
+  /* border: 2px solid rgb(0, 21, 255); */
+}
+
+* {
+  font-family: "Prompt", sans-serif;
+}
+
+p {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1 {
+  line-height: 1.3em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  letter-spacing: 0.1em;
+  background-color: #181818;
+  color: white;
+  width: 99vw;
+}
+
+.katoggleBtn {
+  width: 70px;
+  height: 25px;
+  background: #363636;
+  border-radius: 30px;
+  padding: 0 1px;
+  /* border: 2px solid red; */
+  transition: all 0.5s ease-in-out;
+}
+
+.katoggleBtn > .kainnerCircle {
+  width: 25px;
+  height: 25px;
+  background: white;
+  border-radius: 50%;
+  /* border: 2px solid red; */
+  transition: all 0.5s ease-in-out;
+}
+
+.katoggleBtn.active {
+  background: #363636;
+}
+
+.katoggleBtn.active > .kainnerCircle {
+  margin-left: 65%;
+}
+/* button group 2 end */
+
+.kapricingCards {
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+
+  text-align: center;
+}
+
+.kapricingCards > .kastandardPricingCard > h4 {
+  margin: 8.5% 0% 8.5% 0%;
+}
+
+.kastandardPricingCard,
+.kapremiumPricingCard {
+  flex-basis: 20vw;
+}
+
+.kapremiumPricingCard {
+  margin: -40px;
+}
+
+.kapremiumPricingCard > .kaopportunityLabel {
+  background-color: #f7a614;
+  color: black;
+  font-weight: 700;
+  padding: 6px;
+}
+
+.karupees {
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.kadollar {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.kabgPink {
+  color: #ec008c;
+}
+
+.kapricingCardBtn {
+  width: 270px;
+  height: 50px;
+  padding: 1%;
+  background-image: linear-gradient(to right, #f05a28, #ec008c);
+  color: white;
+  font-size: 17px;
+  white-space: normal;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  
+}
+
+.kapricingCardBtn::before {
+  background-image: linear-gradient(to right, #f05a28, #ec008c);
+  transition: 3s;
+}
+
+.kapricingCardBtn:hover {
+  animation: colorChange 3s linear infinite;
+}
+
+@keyframes colorChange {
+  0% {
+    background: #f05a28;
+  }
+  50% {
+    background: #ec008c;
+  }
+  100% {
+    background: #f05a28;
+  }
+}
+
+.kacompareCourseLibrary {
+  padding-top: 4%;
+  width: 80vw;
+  margin: auto;
+  text-align: center;
+}
+
+.kacompareCourseLibrary > div:nth-child(2) {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+}
+
+.kacompareCourseLibrary > div:nth-child(2) > div:nth-child(1) {
+  flex-basis: 25vw;
+}
+
+.kacompareCourseLibrary > div:nth-child(2) > div:nth-child(2) {
+  flex-basis: 25vw;
+}
+
+.kacoreTable,
+.kaassessmentsTable,
+.kapremiumTable,
+.kaanalyticsTable,
+.kastrategicTable,
+.kaprofessionalServicesTable {
+  margin-top: 5%;
+}
+
+table {
+  width: 70vw;
+  margin: auto;
+  
+}
+
+table tr td:nth-child(n + 2):nth-child(-n + 5) {
+  border-right: thin solid #333333;
+  
+}
+
+table tr {
+  line-height: 50px;
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  
+}
+
+table th {
+  text-align: left;
+  
+}
+
+table td {
+  margin: auto;
+  
+}
+
+table tr:nth-child(odd) {
+  background-color: #212121;
+  
+}
+
+.kapinkCheckMark {
+  margin: auto;
+  width: 8px;
+  height: 20px;
+  border: solid #ec008c;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg) translateX(-50%);
+}
+
+.kaorangeCheckMark {
+  margin: auto;
+  width: 8px;
+  height: 20px;
+  border: solid #f7a614;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg) translateX(-50%);
+}
+
+.kacoreTable
+  > table
+  > tbody
+  > tr:nth-child(1)
+  > td:nth-child(n + 2):nth-child(-n + 6) {
+  text-align: center;
+  font-weight: 700;
+}
+.kacoreTable
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td:nth-child(n + 2):nth-child(-n + 6) {
+  text-align: center;
+  font-weight: 700;
+  
+}
+.kacoreTable
+  > table
+  > tbody
+  > tr:nth-child(3)
+  > td:nth-child(n + 2):nth-child(-n + 6) {
+  text-align: center;
+  font-weight: 700;
+  
+}
+.kapaddingDiv{
+  padding: 0 10px;
+}
+table td > img {
+  text-align: center;
+}
+
+table img {
+  width: 22px;
+}
+
+.textAlignCenter {
+  text-align: center;
+}
+
+.kacolorOrange {
+  color: #f7a614;
+}
+
+.kacolorBlue {
+  color: #0084bd;
+  padding:0 10px;
+}
+
+.kacolorPink {
+  color: #ec008c;
+}
+
+.kacollapsiblesDiv {
+  display: flex;
+  width: 80vw;
+  margin: auto;
+  padding: 10%;
+  justify-content: space-around;
+  
+}
+
+.kacollapsibleBtns {
+  display: flex;
+  flex-direction: column;
+}
+
+.kacollapsibleBtns > button {
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 5% solid yellow;
+  border-left: 0;
+  color: white;
+  background-color: black;
+}
+
+/* Css for kacollapsible div */
+.kacollapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 40vw;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+
+}
+
+.kacollapsible::after {
+  content: "\25BE";
+  float: right;
+  
+}
+
+.kacollapsibleActive {
+  background-color: #555555;
+  
+}
+
+.kacollapsibleActive::after {
+  content: "\25B4";
+  
+}
+
+.active,
+.kacollapsible:hover {
+  background-color: #555;
+}
+
+.kacontent {
+  width: 40vw;
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: black;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.kaendPage {
+  width: 50vw;
+  margin: auto;
+  text-align: center;
+}
+
+.kabrandBar {
+  width: 70vw;
+  margin: 3% auto auto auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+::-webkit-scrollbar{
+  width: 15px;
+}
+
+::-webkit-scrollbar-track{
+  background: #dddddd;
+}
+
+::-webkit-scrollbar-thumb{
+  background: #b71761;
+  border-radius: 10px;
+}
